@@ -1,11 +1,19 @@
-# Day 28: Deploying the Voice Agent to the Cloud
-
-Welcome to Day 28 of the 30 Days of Voice Agents Challenge\! Today, we've taken our agent public by deploying it to a cloud hosting provider, making it accessible to anyone with a web browser.
+# ZeroX Voice Agent to the Cloud
 
 ## 🧠 What We Built
 
   * **Public Deployment**: We have successfully deployed the agent to Render.com, a cloud platform with a generous free tier. This makes our agent accessible via a public URL.
   * **Live Agent**: Our voice agent is now live and can be accessed and used by anyone, anywhere.
+
+-----
+
+## 🚀 Run the App
+
+Our voice agent is now live\! You can access and interact with it here:
+
+**[https://zero-gklu.onrender.com](https://zero-gklu.onrender.com)**
+
+Simply visit the link, click the settings icon to enter your API keys, grant microphone permissions, and start chatting\!
 
 -----
 
@@ -45,9 +53,3 @@ AI Voice Agent/
 ```
 
 -----
-
-## ✅ Completed Days
-
-  * **Day 01 - 26**: Foundational work, from setting up the server and integrating AI services to giving the agent a persona and web search capabilities.
-  * **Day 27**: Revamped the UI and implemented a settings panel for API key configuration directly in the browser.
-  * **Day 28**: Successfully deployed the agent to a public cloud server, making it accessible to all.
